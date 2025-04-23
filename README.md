@@ -1,5 +1,6 @@
 # LifeCycle
 CS-250-14749-M01 Software Development Lifecycle 2025 SNHU 
+
 ** How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
   I have been learning how to do this recently, and I have found that putting the requests in a written list at first helped. Then, after the list was made, I got more details and created the user stories. Having user stories makes it extremely easy to keep track of what we need/want, and keeping them in a Product Log that's updated daily is essential to keeping it organized. 
